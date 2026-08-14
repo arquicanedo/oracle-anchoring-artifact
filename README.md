@@ -165,7 +165,7 @@ Cite the paper. If you use the dataset directly, cite the deposit as well.
   author       = {Canedo, Arquimedes},
   title        = {Oracles That Cannot Fail: replication artifact},
   year         = {2026},
-  doi          = {[doi pending]},
+  doi          = {10.5281/zenodo.21940547},
   note         = {Mutant-level dataset and reproduction program}
 }
 ```

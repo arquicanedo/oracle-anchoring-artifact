@@ -7,6 +7,7 @@ abstract: >-
   control simulator. Six mutated targets, 48 mutation runs. Every published
   figure recomputes from the dataset alone.
 type: dataset
+doi: "10.5281/zenodo.21940547"
 authors:
   - family-names: Canedo
     given-names: Arquimedes
