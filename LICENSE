@@ -1,0 +1,13 @@
+This repository is licensed in two parts.
+
+DATA
+  public-dataset.json is licensed under the Creative Commons Attribution 4.0
+  International licence (CC BY 4.0). See LICENSE-DATA.
+
+CODE
+  reproduce.mjs and analyze.ts are licensed under the MIT licence. See
+  LICENSE-CODE.
+
+The Zenodo deposit metadata records CC BY 4.0, because the deposit is primarily a
+dataset and Zenodo carries a single licence field. This file is authoritative for
+the split.

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the paper and, where you rely on the data directly, the deposit."
+title: "Oracles That Cannot Fail: replication artifact"
+abstract: >-
+  Mutant-level dataset and a self-contained reproduction program for a mutation
+  analysis of twelve model-free property-test suites in a deployed air traffic
+  control simulator. Six mutated targets, 48 mutation runs. Every published
+  figure recomputes from the dataset alone.
+type: dataset
+authors:
+  - family-names: Canedo
+    given-names: Arquimedes
+    orcid: "https://orcid.org/0000-0003-3506-6563"
+    affiliation: "Independent Researcher"
+keywords:
+  - mutation testing
+  - test oracles
+  - oracle anchoring
+  - property-based testing
+  - software testing
+license: CC-BY-4.0

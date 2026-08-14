@@ -1,0 +1,15 @@
+# The salt must never be published. Combined with the deposit it lets an attacker
+# compute the rank of a guessed (line, column, mutator, replacement) tuple and test
+# it against the published ordering, which restores the verification oracle the
+# opaque labels exist to remove. See publicSalt() in analyze.ts.
+.public-salt
+
+# Raw Stryker reports embed the full source of every mutated file.
+reports/
+*.stryker.json
+
+# Tooling and editor artefacts
+.claude/
+node_modules/
+.DS_Store
+*.log
