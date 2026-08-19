@@ -20,3 +20,15 @@ keywords:
   - property-based testing
   - software testing
 license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Oracles That Cannot Fail: Anchoring and the Expectation That Moves With the Fault"
+  authors:
+    - family-names: Canedo
+      given-names: Arquimedes
+      orcid: "https://orcid.org/0000-0003-3506-6563"
+      affiliation: "Independent Researcher"
+  year: 2026
+  doi: "10.48550/arXiv.2608.17214"
+  url: "https://arxiv.org/abs/2608.17214"
+  notes: "arXiv:2608.17214 [cs.SE]"

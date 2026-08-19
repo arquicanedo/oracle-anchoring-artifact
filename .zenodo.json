@@ -1,12 +1,20 @@
 {
   "title": "Oracles That Cannot Fail: replication artifact",
   "upload_type": "dataset",
-  "description": "Mutant-level dataset and a self-contained reproduction program for the paper 'Oracles That Cannot Fail: Anchoring, and the Expectation That Moves With the Fault'. Covers a mutation analysis of twelve model-free property-test suites in a deployed air traffic control simulator, across six mutated targets and 48 mutation runs. Every published figure recomputes from the dataset alone; reproduce.mjs asserts each one and exits non-zero on disagreement. Mutant identities are opaque per-target labels assigned in a salted order, so no source position, replacement text or source ordering is derivable from the dataset.",
+  "description": "Mutant-level dataset and a self-contained reproduction program for the paper 'Oracles That Cannot Fail: Anchoring and the Expectation That Moves With the Fault'. Covers a mutation analysis of twelve model-free property-test suites in a deployed air traffic control simulator, across six mutated targets and 48 mutation runs. Every published figure recomputes from the dataset alone; reproduce.mjs asserts each one and exits non-zero on disagreement. Mutant identities are opaque per-target labels assigned in a salted order, so no source position, replacement text or source ordering is derivable from the dataset.",
   "creators": [
     {
       "name": "Canedo, Arquimedes",
       "affiliation": "Independent Researcher",
       "orcid": "0000-0003-3506-6563"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2608.17214",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
     }
   ],
   "keywords": [
